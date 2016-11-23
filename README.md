@@ -1,10 +1,5 @@
 #WarriorsRule
-echo "# WarriorsRule" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Tyjameslundgames/WarriorsRule.git
-git push -u origin master
+
 
 <p> Hi guys it me tyjameslund games aka the FoxKing! 
 This is my second website that ive made, sadly my other website was hacked and deleted. I have many things to add to this
