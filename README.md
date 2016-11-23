@@ -1,5 +1,4 @@
-#WarriorsRule
-
+#Its me tyjameslund games aka Foxking (my new nickname :D)
 
 <p> Hi guys it me tyjameslund games aka the FoxKing! 
 This is my second website that ive made, sadly my other website was hacked and deleted. I have many things to add to this
