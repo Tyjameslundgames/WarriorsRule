@@ -1,4 +1,4 @@
-#Its me tyjameslund games aka Foxking (my new nickname :D)
+#Hey guys it's me tyjameslund games.
 
 <p> Hi guys it me tyjameslund games aka the FoxKing! 
 This is my second website that ive made, sadly my other website malfunctioned and I lost it. I have many things to add to this
